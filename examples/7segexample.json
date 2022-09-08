@@ -1549,59 +1549,6 @@
             "top": 720,
             "left": 1080,
             "attrs": {}
-        },
-        {
-            "type": "wokwi-logic-analyzer",
-            "id": "logic_analyzer_inputs_0",
-            "top": -200,
-            "left": 400,
-            "attrs": {
-                "filename": "limited-ascii_7segment_lut_logic_analyzer_inputs_0"
-            }
-        },
-        {
-            "type": "wokwi-logic-analyzer",
-            "id": "logic_analyzer_outputs_0",
-            "top": -200,
-            "left": 800,
-            "attrs": {
-                "filename": "limited-ascii_7segment_lut_logic_analyzer_outputs_0"
-            }
-        },
-        {
-            "type": "wokwi-clock-generator",
-            "id": "testvector_clock",
-            "top": -600,
-            "left": 0,
-            "attrs": {}
-        },
-        {
-            "type": "wokwi-flip-flop-d",
-            "id": "testvector_clock_div2.0",
-            "top": -600,
-            "left": 200,
-            "attrs": {}
-        },
-        {
-            "type": "wokwi-flip-flop-d",
-            "id": "testvector_clock_div4.0",
-            "top": -600,
-            "left": 400,
-            "attrs": {}
-        },
-        {
-            "type": "wokwi-flip-flop-d",
-            "id": "testvector_clock_div8.0",
-            "top": -600,
-            "left": 600,
-            "attrs": {}
-        },
-        {
-            "type": "wokwi-flip-flop-d",
-            "id": "testvector_clock_div16.0",
-            "top": -600,
-            "left": 800,
-            "attrs": {}
         }
     ],
     "connections": [
